@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+ background-color: LightSeaGreen   ;
+ border: 5px solid Teal;
+ border-radius: 20px;
+}
+ 
+header img {
+ border: 3px solid Teal;
+ border-radius: 20px;
+}
+
+h1 {
+ border: 3px solid Teal;
+ padding: 5px;
+ border-radius: 10px;
+ text-align: center;
+ color: SteelBlue;
+ background-color: LightCyan;
+}
+
+footer p {
+ border: 3px solid Teal ;
+ background-color: LightCyan;
+}
+
+nav a {
+ border: 3px solid Teal;
+ padding: 1px;
+ border-radius: 10px;
+ text-align: center;
+ color: CadetBlue;
+ background-color: LightCyan;
+ text-decoration: none;
+}
+
+nav{
+  text-align: center;
+}
+
+.p1 {
+ border: 3px solid Teal;
+ border-radius: 10px;
+  background-color: LightCyan;
+}
+
+h2 {
+ color: blue;
+
+}
+
+p,h1, {
+ font-size: 20px;
+
+}
